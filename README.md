@@ -12,6 +12,9 @@ Sistema turnazione gestito da precondizioni scritte nel server.
 Ogni lavoratore ha un account personale collegato ad app.
 Nessun avviso di lavoro. Se il professionista non si presenta il locale non apre.
 
+Paga oraria trqmite app. Bustapaga settimanale.
+
+
 
 
 
