@@ -14,7 +14,7 @@ Nessun avviso di lavoro. Se il professionista non si presenta il locale non apre
 
 Paga oraria trqmite app. Bustapaga settimanale.
 
-
+Documenti digitali, siamo ecosostenibili.
 
 
 
