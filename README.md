@@ -7,7 +7,8 @@ Alimentari sociale
 
 - Manifesto
 - Brand identity
-- 
+- Hi-tech
+- Lavora con noi
 
 
 ## MANIFESTO
@@ -32,23 +33,17 @@ Zia Elisa ar gestionale, Carla lavora do je pare
 Cor giornale ci puliamo i vetri.
 
 
+Slow concept.
+DOMENICA MARI E MONTI. LE FESTE NAZIONALI, pure.
+Fast alla porta (alcuni mangiano mentre lavorano).
+
+
 Non ci sono dipendenti. Lavoro a collaborazioni tra professionisti con partita iva forfettaria e codice ATECO adeguato. Priorità agli artisti locali.
 
-### BRAND IDENTITY
+## BRAND IDENTITY
 Qua è pieno de artisti, poeti, musicisti, fanno pure tutti le mostre. 
 
 
-### Come na vorta
-
-Zi Giannetto Nonna Anna pe la storia
-Zi Gialluca per il buongiorno, e lui se la ricorda
-Mi fratello er pomeriggio, l'ha imparata
-Zi Filippo pe la frutta ed il prosecco maschio
-Er forno de mi cuggino Christian
-Sti professionisti channo la campanella della scuola e vonno lavorà.
-Altri non channo figli ma un sacco de progetti.
-Zia Elisa ar gestionale, Carla lavora do je pare 
-Cor giornale ci puliamo i vetri.
 
 
 Modello di lavoro flessibile e senza vincoli. Preavvisi e turnazione bi settimanale.
@@ -76,21 +71,6 @@ Se il professionista non si presenta il locale non apre.
 
 
 
-⏱️ Paga oraria tramite app.
-
-🧭 Conteggio ogni 15 min.
-
-💳 Bustapaga settimanale.
-
-🔋 Documenti digitali, siamo ecosostenibili.
-
-Slow concept.
-DOMENICA MARI E MONTI. LE FESTE NAZIONALI, pure.
-Fast alla porta (alcuni mangiano mentre lavorano).
-
-Con il nostro modello di lavoro non si è vincolati o subordinati. Rimane comunque valido lo sconto professionista.
-
-Incentiviamo PREMI per pause dal lavoro superiori a tre mesi. come? xxxx
 
 ### Lavora con noi
 
@@ -99,6 +79,20 @@ assistenza gratuita per:
 - formazione hccp
 - apertura partita iva
 - possibilità di cambio ruolo tramite corsi di formazione interni
+
+
+⏱️ Paga oraria tramite app.
+
+🧭 Conteggio ogni 15 min.
+
+💳 Bustapaga settimanale.
+
+🔋 Documenti digitali, siamo ecosostenibili.
+
+
+Con il nostro modello di lavoro non si è vincolati o subordinati. Rimane comunque valido lo sconto professionista.
+
+Incentiviamo PREMI per pause dal lavoro superiori a tre mesi. come? xxxx
 
 
 ### PERSONE:
