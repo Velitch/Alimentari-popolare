@@ -2,6 +2,8 @@
 Alimentari sociale
 
 GIALLO E VERDE
+viola e bianco
+
 
 ### Manifesto
 
