@@ -4,7 +4,7 @@ Alimentari sociale
 
 ### Manifesto
 
-Priorità agli artisti locali.
+Non ci sono dipendenti. Lavoro a collaborazioni tra professionisti con partita iva forfettaria e codice ATECO adeguato.Priorità agli artisti locali.
 
 
 
