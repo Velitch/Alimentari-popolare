@@ -19,6 +19,7 @@ Zi Filippo pe la frutta ed il prosecco maschio
 Er forno de mi cuggino Christian
 Sti professionisti channo la campanella della scuola e vonno lavorà.
 Altri non channo figli ma un sacco de progetti.
+Zia Elisa ar gestionale, Carla lavora do je pare 
 
 
 
@@ -50,6 +51,19 @@ Se il professionista non si presenta il locale non apre.
 Slow concept.
 DOMENICA MARI E MONTI. LE FESTE NAZIONALI, pure.
 Fast alla porta (alcuni mangiano mentre lavorano).
+
+Con il nostro modello di lavoro non si è vincolati o subordinati. Rimane comunque valido lo sconto professionista.
+
+Incentiviamo PREMI per pause dal lavoro superiori a tre mesi. come? xxxx
+
+### Lavora con noi
+
+assistenza gratuita per: 
+
+- formazione hccp
+- apertura partita iva
+- possibilità di cambio ruolo tramite corsi di formazione interni
+
 
 CEO: Matias Paglioni
 GM sede Pignete: Gabriela Velitch
