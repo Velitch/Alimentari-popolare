@@ -1,9 +1,8 @@
 # Alimentari-sociale
 Alimentari sociale
 
-GIALLO E VERDE
-viola e bianco
-
+### BRAND
+Qua è pieno de artisti, poeti, musicisti, fanno pure tutti le mostre. 
 
 ### Manifesto
 
@@ -20,12 +19,16 @@ Er forno de mi cuggino Christian
 Sti professionisti channo la campanella della scuola e vonno lavorà.
 Altri non channo figli ma un sacco de progetti.
 Zia Elisa ar gestionale, Carla lavora do je pare 
-
+Cor giornale ci puliamo i vetri.
 
 
 Modello di lavoro flessibile e senza vincoli. Preavvisi e turnazione bi settimanale.
 
 ORARIO: dalla squola, tanto c'è zi gialluca, alla mezza, che mica tutti stamo allinstessi tempi.
+
+OGNI GIORNO c'ha tre turni, de uno me fido, tanto il locale è piccolo, non serve prescia. 
+
+È pure tutto ordinato, le richieste arrivano prima e channo una data.
 
 
 
@@ -69,17 +72,21 @@ assistenza gratuita per:
 - possibilità di cambio ruolo tramite corsi di formazione interni
 
 
+### PERSONE:
+
 CEO: Matias Paglioni
+
 GM sede Pignete: Gabriela Velitch
 
-TESSERA: 
+
+### TESSERA: 
 
 
-- SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live.
+- SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live su territorio nazionale (arci).
 
-- SCONTO RESIDENTE
+- SCONTO RESIDENTE: incentiviamo a fare la spesa camminando a km0
 
-🗿 SCONTO PENSIONATI: tramite documento veeifichiamo età superiore a xx e applichiamo sconto del % sulla spesa totale. Valgono delege precompilate una tantum in loco, anzi vengono sponsorizzate.
+🗿 SCONTO PENSIONATI: tramite documento veeifichiamo età superiore a xx e applichiamo sconto del % sulla spesa totale. Valgono delege precompilate una tantum in loco, anzi vengono sponsorizzate. Valido per resisdenti nel comune.
 
 🗽 SCONTO COLLABORATORE
 
