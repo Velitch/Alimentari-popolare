@@ -1,12 +1,41 @@
 # Alimentari-sociale
 Alimentari sociale
 
-### BRAND
-Qua è pieno de artisti, poeti, musicisti, fanno pure tutti le mostre. 
 
-### Manifesto
+
+### Indice
+
+- Manifesto
+- Brand identity
+- 
+
+
+## MANIFESTO
+
+### Come na vorta
+
+👵🏻👴🏻 Zi Giannetto Nonna Anna pe la storia
+
+💪🏻 Zi Gialluca per il buongiorno, e lui se la ricorda
+
+🎡 Mi fratello er pomeriggio, l'ha imparata
+
+🏎️ Zi Filippo pe la frutta ed il prosecco maschio
+
+🏘️ Er forno de mi cuggino Christian
+
+💼 Sti professionisti channo la campanella della scuola e vonno lavorà.
+
+🤹‍♂️ Altri non channo figli ma un sacco de progetti.
+
+Zia Elisa ar gestionale, Carla lavora do je pare 
+Cor giornale ci puliamo i vetri.
+
 
 Non ci sono dipendenti. Lavoro a collaborazioni tra professionisti con partita iva forfettaria e codice ATECO adeguato. Priorità agli artisti locali.
+
+### BRAND IDENTITY
+Qua è pieno de artisti, poeti, musicisti, fanno pure tutti le mostre. 
 
 
 ### Come na vorta
