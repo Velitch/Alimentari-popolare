@@ -9,6 +9,8 @@ Alimentari sociale
 - Brand identity
 - Hi-tech
 - Lavora con noi
+- Chi siamo
+- FAQ
 
 
 ## MANIFESTO
@@ -55,6 +57,23 @@ OGNI GIORNO c'ha tre turni, de uno me fido, tanto il locale è piccolo, non serv
 È pure tutto ordinato, le richieste arrivano prima e channo una data.
 
 
+## HI-TECH
+
+### TESSERA: 
+
+
+- SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live su territorio nazionale (arci). fino ai 26 anni in corso di validità.
+
+- SCONTO RESIDENTE: incentiviamo a fare la spesa camminando a km0
+
+🗿 SCONTO PENSIONATI: tramite documento veeifichiamo età superiore a xx e applichiamo sconto del % sulla spesa totale. Valgono delege precompilate una tantum in loco, anzi vengono sponsorizzate. Valido per resisdenti nel comune.
+
+🗽 SCONTO COLLABORATORE
+
+
+SCONTI: gestiti tramite app sulla spesa successiva.
+
+
 
 ⛱️ Massimo ore consecutive 6.
 
@@ -95,7 +114,7 @@ Con il nostro modello di lavoro non si è vincolati o subordinati. Rimane comunq
 Incentiviamo PREMI per pause dal lavoro superiori a tre mesi. come? xxxx
 
 
-### PERSONE:
+### CHI SIAMO:
 
 CEO: Matias Paglioni
 
@@ -105,21 +124,6 @@ Brand Stylist: x
 
 
 
-## HI-TECH
-
-### TESSERA: 
-
-
-- SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live su territorio nazionale (arci). fino ai 26 anni in corso di validità.
-
-- SCONTO RESIDENTE: incentiviamo a fare la spesa camminando a km0
-
-🗿 SCONTO PENSIONATI: tramite documento veeifichiamo età superiore a xx e applichiamo sconto del % sulla spesa totale. Valgono delege precompilate una tantum in loco, anzi vengono sponsorizzate. Valido per resisdenti nel comune.
-
-🗽 SCONTO COLLABORATORE
-
-
-SCONTI: gestiti tramite app sulla spesa successiva.
 
 🤹 Per aumentare igiene del locale il cliente sceglie profotti tramite app.
 🥇 Soppalco accessibile solo dal lavoratore del giorno.
@@ -154,4 +158,9 @@ Vacanze di gruppo per i lavoratori professionisti.
 ### Essenziale 
 
  - GM
+
+
+## FAQ
+
+- Come gestite i dati acquisiti per l'attivazione della tessera?
 
