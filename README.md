@@ -25,6 +25,10 @@ Zia Elisa ar gestionale, Carla lavora do je pare
 
 Modello di lavoro flessibile e senza vincoli. Preavvisi e turnazione bi settimanale.
 
+ORARIO: dalla squola, tanto c'è zi gialluca, alla mezza, che mica tutti stamo allinstessi tempi.
+
+
+
 ⛱️ Massimo ore consecutive 6.
 
 
