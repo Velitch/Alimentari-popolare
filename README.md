@@ -19,6 +19,16 @@ Documenti digitali, siamo ecosostenibili.
 Slow concept.
 Fast alla porta.
 
+🤹 Per aumentare igiene del locale il cliente sceglie profotti tramite app.
+🥇 Soppalco accessibile solo dal lavoratore del giorno.
+🏛️ Niente tavolini e sedie fuori ma che monnezza è.
+🚩 Insegna luminosa non serve sticazzi
+🇮🇹 Clienti de zona, spesa gia pronta al ritiro (in base a quando stacchi oh, se a qualcuno je va de lavorà siamo aperti fino alle 23)
+📀 Prezzi de quartiere, mica stamo tutti a pranzà e cenà fori
+⛲️ Acqua come giusto che sia
+
+
+
 
 ### Benefit
 
