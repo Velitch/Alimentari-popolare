@@ -72,7 +72,7 @@ Se il professionista non si presenta il locale non apre.
 
 
 
-### Lavora con noi
+## LAVORA CON NOI
 
 assistenza gratuita per: 
 
@@ -101,6 +101,11 @@ CEO: Matias Paglioni
 
 GM sede Pignete: Gabriela Velitch
 
+Brand Stylist: x
+
+
+
+## HI-TECH
 
 ### TESSERA: 
 
