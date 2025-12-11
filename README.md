@@ -82,7 +82,7 @@ GM sede Pignete: Gabriela Velitch
 ### TESSERA: 
 
 
-- SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live su territorio nazionale (arci).
+- SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live su territorio nazionale (arci). fino ai 26 anni in corso di validità.
 
 - SCONTO RESIDENTE: incentiviamo a fare la spesa camminando a km0
 
