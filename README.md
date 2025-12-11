@@ -16,7 +16,7 @@ Paga oraria trqmite app. Bustapaga settimanale.
 
 Documenti digitali, siamo ecosostenibili.
 
-
+Vabbè de base faccio tipo mi cognato, ma con la pappa.
 
 ### Lavori pre apertura:
 - lavandino me lo monta zio Andrea
