@@ -99,6 +99,13 @@ assistenza gratuita per:
 - apertura partita iva
 - possibilità di cambio ruolo tramite corsi di formazione interni
 
+### Benefit
+
+Vabbè de base faccio tipo mi cognato, ma con la pappa.
+Vacanze di gruppo per i lavoratori professionisti.
+
+
+
 
 ⏱️ Paga oraria tramite app.
 
@@ -135,11 +142,6 @@ Brand Stylist: x
 
 
 
-
-### Benefit
-
-Vabbè de base faccio tipo mi cognato, ma con la pappa.
-Vacanze di gruppo per i lavoratori professionisti.
 
 
 ### Lavori pre apertura:
