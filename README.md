@@ -17,7 +17,7 @@ Paga oraria trqmite app. Bustapaga settimanale.
 Documenti digitali, siamo ecosostenibili.
 
 Vabbè de base faccio tipo mi cognato, ma con la pappa.
-
+Vacanze di gruppo per i lavoratori professionisti.
 ### Lavori pre apertura:
 - lavandino me lo monta zio Andrea
 - impianto elettrico me lo controlla zio Andrea
