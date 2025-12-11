@@ -7,12 +7,12 @@ Alimentari sociale
 Non ci sono dipendenti. Lavoro a collaborazioni tra professionisti con partita iva forfettaria e codice ATECO adeguato. Priorità agli artisti locali.
 Modello di lavoro flessibile e senza vincoli. Preavvisi e turnazione bi settimanale.
 Massimo ore consecutive 6.
-Turni altrrnati giorno/notte.
-Chi ha fatto chiusura non puo fare apertura.
-Sistema turnazione gestito da precondizioni scritte nel server. 
+⚖️ Turni altrrnati giorno/notte. Chi ha fatto chiusura non puo fare apertura.
+(Sistema turnazione gestito da precondizioni scritte nel server)
 Ogni lavoratore ha un account personale collegato ad app.
 Nessun avviso di lavoro. 
 Se il professionista non si presenta il locale non apre.
+
 
 
 ⏱️ Paga oraria tramite app.
@@ -21,8 +21,7 @@ Se il professionista non si presenta il locale non apre.
 
 💳 Bustapaga settimanale.
 
-
-Documenti digitali, siamo ecosostenibili.
+🔋 Documenti digitali, siamo ecosostenibili.
 
 Slow concept.
 DOMENICA MARI E MONTI. LE FESTE NAZIONALI, pure.
@@ -32,6 +31,7 @@ SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live.
 
 TESSERA DE QUARTIERE
 
+🗿 SCONTO PENSIONATI: tramite documento veeifichiamo età superiore a xx e applichiamo sconto del % sulla spesa totale. Valgono delege precompilate una tantum in loco, anzi vengono sponsorizzate.
 
 
 
