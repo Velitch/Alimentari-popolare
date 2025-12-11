@@ -27,6 +27,13 @@ Slow concept.
 DOMENICA MARI E MONTI. LE FESTE NAZIONALI, pure.
 Fast alla porta (alcuni mangiano mentre lavorano).
 
+
+TESSERA: 
+
+
+CEO: Matias Paglioni
+
+
 SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live.
 
 TESSERA DE QUARTIERE
