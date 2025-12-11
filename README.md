@@ -2,6 +2,22 @@
 Alimentari sociale
 
 
-Manifesto
+### Manifesto
 
 Priorità agli artisti locali.
+
+
+
+
+### Lavori pre apertura:
+- lavandino me lo monta zio Andrea
+- impianto elettrico me lo controlla zio Andrea
+- ventilazione zio Andrea
+
+### Fornitore Stock:
+
+- alimentari zio Giancarlo
+
+### Licenze:
+
+- hccp di mio fratello
