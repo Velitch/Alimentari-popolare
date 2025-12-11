@@ -17,7 +17,13 @@ Paga oraria trqmite app. Bustapaga settimanale.
 Documenti digitali, siamo ecosostenibili.
 
 Slow concept.
-Fast alla porta.
+DOMENICA MARI E MONTI.
+Fast alla porta (alcuni mangiano mentre lavorano).
+
+SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live.
+
+TESSERA DE QUARTIERE
+
 
 🤹 Per aumentare igiene del locale il cliente sceglie profotti tramite app.
 🥇 Soppalco accessibile solo dal lavoratore del giorno.
