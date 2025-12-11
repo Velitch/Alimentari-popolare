@@ -4,15 +4,23 @@ Alimentari sociale
 
 ### Manifesto
 
-Non ci sono dipendenti. Lavoro a collaborazioni tra professionisti con partita iva forfettaria e codice ATECO adeguato.Priorità agli artisti locali.
+Non ci sono dipendenti. Lavoro a collaborazioni tra professionisti con partita iva forfettaria e codice ATECO adeguato. Priorità agli artisti locali.
 Modello di lavoro flessibile e senza vincoli. Preavvisi e turnazione bi settimanale.
 Massimo ore consecutive 6.
-Turni altrrnati giorno/notte. Chi ha fatto chiusura non puo fare apertura.
+Turni altrrnati giorno/notte.
+Chi ha fatto chiusura non puo fare apertura.
 Sistema turnazione gestito da precondizioni scritte nel server. 
 Ogni lavoratore ha un account personale collegato ad app.
-Nessun avviso di lavoro. Se il professionista non si presenta il locale non apre.
+Nessun avviso di lavoro. 
+Se il professionista non si presenta il locale non apre.
 
-Paga oraria trqmite app. Bustapaga settimanale.
+
+⏱️ Paga oraria tramite app.
+
+🧭 Conteggio ogni 15 min.
+
+💳 Bustapaga settimanale.
+
 
 Documenti digitali, siamo ecosostenibili.
 
@@ -23,6 +31,8 @@ Fast alla porta (alcuni mangiano mentre lavorano).
 SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live.
 
 TESSERA DE QUARTIERE
+
+
 
 
 🤹 Per aumentare igiene del locale il cliente sceglie profotti tramite app.
@@ -54,3 +64,8 @@ Vacanze di gruppo per i lavoratori professionisti.
 ### Licenze:
 
 - hccp di mio fratello
+
+### Essenziale 
+
+ - GM
+
