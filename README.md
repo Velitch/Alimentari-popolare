@@ -35,6 +35,7 @@ TESSERA:
 
 
 CEO: Matias Paglioni
+GM sede Pignete: Gabriela Velitch
 
 
 SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live.
