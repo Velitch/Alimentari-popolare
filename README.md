@@ -17,7 +17,7 @@ Paga oraria trqmite app. Bustapaga settimanale.
 Documenti digitali, siamo ecosostenibili.
 
 Slow concept.
-DOMENICA MARI E MONTI.
+DOMENICA MARI E MONTI. LE FESTE NAZIONALI, pure.
 Fast alla porta (alcuni mangiano mentre lavorano).
 
 SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live.
