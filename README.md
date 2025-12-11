@@ -30,21 +30,22 @@ Slow concept.
 DOMENICA MARI E MONTI. LE FESTE NAZIONALI, pure.
 Fast alla porta (alcuni mangiano mentre lavorano).
 
+CEO: Matias Paglioni
+GM sede Pignete: Gabriela Velitch
 
 TESSERA: 
 
 
-CEO: Matias Paglioni
-GM sede Pignete: Gabriela Velitch
+- SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live.
 
-
-SCONTO STUDENTI: studente registrato raggiunge biglietti concerti live.
-
-TESSERA DE QUARTIERE
+- SCONTO RESIDENTE
 
 🗿 SCONTO PENSIONATI: tramite documento veeifichiamo età superiore a xx e applichiamo sconto del % sulla spesa totale. Valgono delege precompilate una tantum in loco, anzi vengono sponsorizzate.
 
+🗽 SCONTO COLLABORATORE
 
+
+SCONTI: gestiti tramite app sulla spesa successiva.
 
 🤹 Per aumentare igiene del locale il cliente sceglie profotti tramite app.
 🥇 Soppalco accessibile solo dal lavoratore del giorno.
